@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(28, 1, 111);
+    place-items: centre;
+    display: grid;
+    height: 100vh;
+}
+
+.one{
+    height: 40px;
+    width: 40px;
+    margin:6px;
+    border-radius:8px;
+    border: 5px solid rgb(255, 255, 255);
+
+}
+
+.two{
+    background-color:palegreen;
+}
+
+.three{
+    background-color: red;
+}
+
+.buttons{
+   border-top: 5px solid rgb(255, 253, 253);
+}
+
+#result{
+    border-radius: 10px;
+    border: 3px solid white;
+    height: 20px;
+    width: 195px;
+    margin: 10px;
+}
+
+.container{
+    background-color:rgb(4, 4, 67);
+    margin: auto;
+    display: inline-block;
+    border: 5px solid white;
+    border-radius: 10px;
+}
